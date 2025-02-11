@@ -1,0 +1,38 @@
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: #f5f5f5;
+}
+
+.card .company-logo {
+  padding: 2rem;
+}
+
+.card {
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  margin: 20px;
+  padding: 2rem;
+  /* text-align: center; */
+}
+
+.card .section {
+  padding: 2rem;
+  /* display: flex; */
+  /* justify-content: center; */
+  /* gap: 2rem; */
+}
+
+.title h2 {
+  color: #b88b1c;
+}
+.title p {
+  margin-bottom: 2rem;
+  font-size: 20px;
+}
+
+.info p:last-child {
+  margin-top: 3rem;
+  font-weight: bold;
+  color: #b88b1c;
+}
