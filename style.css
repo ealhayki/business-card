@@ -4,7 +4,7 @@ body {
 }
 
 .card .company-logo {
-  padding: 2rem;
+  padding: 1rem;
 }
 
 .card {
@@ -12,12 +12,12 @@ body {
   border-radius: 10px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   margin: 20px;
-  padding: 2rem;
+  padding: 1rem;
   /* text-align: center; */
 }
 
 .card .section {
-  padding: 2rem;
+  padding: 1rem;
   /* display: flex; */
   /* justify-content: center; */
   /* gap: 2rem; */
@@ -32,7 +32,7 @@ body {
 }
 
 .info p:last-child {
-  margin-top: 3rem;
+  margin-top: 2rem;
   font-weight: bold;
   color: #b88b1c;
 }
