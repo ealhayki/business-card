@@ -23,12 +23,12 @@ body {
   /* gap: 2rem; */
 }
 
-.title h2 {
+.title h3 {
   color: #b88b1c;
 }
 .title p {
   margin-bottom: 2rem;
-  font-size: 20px;
+  font-weight: bold;
 }
 
 .info p:last-child {
