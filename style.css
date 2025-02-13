@@ -36,3 +36,20 @@ body {
   font-weight: bold;
   color: #b88b1c;
 }
+
+.whatsapp-btn {
+  background-color: limegreen;
+  padding: 1rem;
+  width: 200px;
+  display: flex;
+  justify-content: center;
+  gap: 0.5rem;
+  color: #fff;
+  border-radius: 1rem;
+  font-weight: bold;
+}
+
+#whatsapp-icon {
+  width: 20px;
+  height: 20px;
+}
